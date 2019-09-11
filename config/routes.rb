@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-     root 'sb#index'
+   root 'sb#index'
 end
