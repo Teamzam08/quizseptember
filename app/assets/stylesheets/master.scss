@@ -3,7 +3,7 @@
 h1 {
     color: #A0A30D;
     text-align: center;
-    padding: 60px;
+    padding: 70px;
     font-size: 60px;
     font-weight: bold;
     
@@ -17,15 +17,10 @@ h2 {
     font-weight: bold;
 }
 
-body
-    {
-    background: url('Raiders.jpg') no-repeat center center fixed;
-    background-size: cover;
-}
 
 h3 {
     text-align: center;
-    color: white;
+    color: #A0A30D;
     margin-bottom: 50px;
     padding: 30px;
 }
@@ -33,6 +28,13 @@ h3 {
 p {
     text-align: center;
     font-size: 50px;
-    color: white;
+    color: #A0A30D;
     font-weight: bold;
+    margin-top: 50px;
+}
+
+body
+    {
+    background: url('Raiders.jpg') no-repeat center center fixed;
+    background-size: cover;
 }
