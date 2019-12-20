@@ -63,7 +63,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 source 'https://rubygems.org'
 gem 'nokogiri'
-gem 'rack', '~> 2.0.1'
+gem 'rack', '~> 2.0.8'
 gem 'rspec'
 
 gem 'jquery-rails'
